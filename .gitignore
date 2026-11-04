@@ -1,0 +1,8 @@
+# Juurihakemiston tmp-päätteiset tiedostot
+/tmp
+
+# __pycache__-hakemistot
+__pycache__/
+
+# .pytest_cache-hakemistot
+.pytest_cache/
